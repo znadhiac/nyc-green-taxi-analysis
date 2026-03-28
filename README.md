@@ -179,8 +179,10 @@ NYU Furman Center. (n.d.). *East Harlem neighborhood profile*. Retrieved April 6
 ---
 
 ## TOOLS USED
-- Python: Used for data cleaning and analysis.  
-- Tableau: Employed to design interactive dashboards and visualizations.  
+- Python (Pandas, NumPy): Data cleaning, manipulation, and analysis
+- Matplotlib & Seaborn: Exploratory data visualization
+- Jupyter Notebook: Analysis workflow and documentation
+- Tableau: Interactive dashboard development and visualization  
   [NYC TLC Green Taxi dashboard](https://public.tableau.com/views/NYCTLCGreenTaxiDashboard/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
   ![NYC TLC Green Taxi dashboard](nyc_tlc_green_taxi_dashboard.png)
