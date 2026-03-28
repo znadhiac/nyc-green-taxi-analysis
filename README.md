@@ -183,4 +183,4 @@ NYU Furman Center. (n.d.). *East Harlem neighborhood profile*. Retrieved April 6
 - Tableau: Employed to design interactive dashboards and visualizations.
   ['NYC TLC Green Taxi dashboard'](https://public.tableau.com/views/NYCTLCGreenTaxiDashboard/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-  ![NYC TLC Green Taxi Dashboard](images/nyc_tlc_green_taxi_dashboard.png)
+  ![NYC TLC Green Taxi dashboard](nyc_tlc_green_taxi_dashboard.png)
