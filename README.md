@@ -1,4 +1,4 @@
-# A DATA-DRIVEN ANALYSIS FOR IMPROVING NYC GREEN TAXI SERVICES 
+# NYC GREEN TAXI DEMAND AND OPERATIONS ANALYSIS  
 This analysis of New York City's Green Taxi service, based on January 2023 trip data, identifies key patterns in demand, fare structure, and passenger behavior, offering recommendations to optimize fleet deployment, pricing strategies, and service planning. The findings highlight peak demand times, high-traffic locations, factors influencing fare amounts, and preferences for digital payments, providing actionable insights for improving operational efficiency and service equity.
 
 ## I. INTRODUCTION
